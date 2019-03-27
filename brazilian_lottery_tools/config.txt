@@ -1,0 +1,13 @@
+# config.txt
+
+[results]
+base_url = http://www1.caixa.gov.br/loterias/_arquivos/loterias/
+mega_sena = D_megase.zip
+lotofacil = D_lotfac.zip
+quina = D_quina.zip
+lotomania = D_lotoma.zip
+timemania = D_timema.zip
+dupla_sena = d_dplsen.zip
+federal = D_federa.zip
+loteca = d_loteca.zip
+lotogol = d_lotogo.zip
